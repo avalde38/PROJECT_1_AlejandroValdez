@@ -4,7 +4,7 @@ GitHub Poetry Project
 <html>
 <head>
 <link rel="stylesheet" href="mystyle.css">
-</head>
+<html>
 <body style="background-color:powderblue;">
 
 
