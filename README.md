@@ -7,6 +7,15 @@ GitHub Poetry Project
 </head>
 <body>
 
+body {
+  background-color: lightblue;
+}
+
+h1 {
+  color: navy;
+  margin-left: 20px;
+}
+
 <h1>Me and Rodrick just vibing all good</h1>
 <p>Rodrick is so babygirl.<br>                                                                                                                                              
 My biggest concern as a kid was wondering if i wanted to be Rodrick or be with him.<br>                                                                                                                                Fine, I'll do it myself.<br> 
