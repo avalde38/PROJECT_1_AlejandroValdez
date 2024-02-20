@@ -7,7 +7,6 @@ GitHub Poetry Project
 </head>
 <body>
 
-![image](https://github.com/avalde38/PROJECT_1_AlejandroValdez/assets/157165018/5ab2cfca-5064-4037-8562-34e8156deaca)
 
 <h1>Me and Rodrick just vibing all good</h1>
 <p>Rodrick is so babygirl.<br>                                                                                                                                              
@@ -22,6 +21,14 @@ Roderick and I have had a few good chats here and there and he has all good vibe
 Been a crazy up and down year and overall.<br>
 Great Vibes all around!
 </p>
+
+![image](https://github.com/avalde38/PROJECT_1_AlejandroValdez/assets/157165018/e5b91d07-c245-4407-82fe-92e6b9f44339)
+![image](https://github.com/avalde38/PROJECT_1_AlejandroValdez/assets/157165018/4ceec740-9302-4750-9033-d2f26b6dbba8)
+![image](https://github.com/avalde38/PROJECT_1_AlejandroValdez/assets/157165018/3cd031c7-bd53-4cab-aa27-75609af576b2)
+![image](https://github.com/avalde38/PROJECT_1_AlejandroValdez/assets/157165018/a2aa7b77-c9c6-4402-8457-dddfbbaf9efb)
+
+
+
 
 
 </body>
