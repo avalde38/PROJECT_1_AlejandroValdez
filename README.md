@@ -5,7 +5,7 @@ GitHub Poetry Project
 <head>
 <link rel="stylesheet" href="mystyle.css">
 </head>
-<body>
+<body style="background-color:powderblue;">>
 
 
 <h1>Me and Rodrick just vibing all good</h1>
