@@ -8,8 +8,8 @@ GitHub Poetry Project
 <body>
 
 <h1>Me and Rodrick just vibing all good</h1>
-<p>Rodrick is so babygirl.                                                                                                                                                 
-My biggest concern as a kid was wondering if i wanted to be rodrick or be with him.
+<p>Rodrick is so babygirl.</p>                                                                                                                                                 
+<p>My biggest concern as a kid was wondering if i wanted to be rodrick or be with him.</p>                                                                                                                                                 
                                                            Fine, I'll do it myself. 
                                            Rodrick rules is the best book and movie,
                                       all of his moments in the books is pure gold,
