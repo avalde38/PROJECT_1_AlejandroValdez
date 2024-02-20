@@ -7,7 +7,6 @@ GitHub Poetry Project
 </head>
 <body>
 
-![image](https://github.com/avalde38/PROJECT_1_AlejandroValdez/assets/157165018/5ab2cfca-5064-4037-8562-34e8156deaca)
 
 <h1>Me and Rodrick just vibing all good</h1>
 <p>Rodrick is so babygirl.<br>                                                                                                                                              
