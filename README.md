@@ -7,9 +7,6 @@ GitHub Poetry Project
 </head>
 <body>
 
-<h1 style="color:blue;">A Blue Heading</h1>
-
-<p style="color:red;">A red paragraph.</p>
 
 <h1>Me and Rodrick just vibing all good</h1>
 <p>Rodrick is so babygirl.<br>                                                                                                                                              
