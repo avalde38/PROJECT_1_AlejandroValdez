@@ -7,6 +7,7 @@ GitHub Poetry Project
 </head>
 <body>
 
+![image](https://github.com/avalde38/PROJECT_1_AlejandroValdez/assets/157165018/5ab2cfca-5064-4037-8562-34e8156deaca)
 
 <h1>Me and Rodrick just vibing all good</h1>
 <p>Rodrick is so babygirl.<br>                                                                                                                                              
@@ -22,7 +23,6 @@ Been a crazy up and down year and overall.<br>
 Great Vibes all around!
 </p>
 
-(https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.reddit.com%2Fr%2FLodedDiper%2Fcomments%2Fzp0sxk%2Fwhy_does_everyone_like_rodrick_so_much_i%2F&psig=AOvVaw0sHsosx8HvOd27a7nfT0lT&ust=1708528566652000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMjU14WbuoQDFQAAAAAdAAAAABAD)
 
 </body>
 </html>
