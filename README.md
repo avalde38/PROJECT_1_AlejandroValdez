@@ -12,7 +12,7 @@ GitHub Poetry Project
 My biggest concern as a kid was wondering if i wanted to be Rodrick or be with him.                                                                                                                                  Fine, I'll do it myself. 
 Rodrick rules is the best book and movie,
 all of his moments in the books is pure gold,
-he is the only normal one
+he is the only normal one.
 God, I wish I was Rodrick. 
 For example, Rodrick definitely likes the starving artist look and the grungy feel of rock and how it was so abrasive when it first came out.
 I've made for a character so i hope it's ok!! 
