@@ -7,14 +7,7 @@ GitHub Poetry Project
 </head>
 <body>
 
-body {
-  background-color: lightblue;
-}
 
-h1 {
-  color: navy;
-  margin-left: 20px;
-}
 
 <h1>Me and Rodrick just vibing all good</h1>
 <p>Rodrick is so babygirl.<br>                                                                                                                                              
