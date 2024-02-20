@@ -27,6 +27,12 @@ Great Vibes all around!
 
 ![image](https://github.com/avalde38/PROJECT_1_AlejandroValdez/assets/157165018/17f28712-1a8b-4b74-9844-960120adc000)
 
+![image](https://github.com/avalde38/PROJECT_1_AlejandroValdez/assets/157165018/7f8dccd1-6343-44b8-9f37-74bc75566054)
+
+![image](https://github.com/avalde38/PROJECT_1_AlejandroValdez/assets/157165018/19f831bd-62da-440c-9ba9-32207588fff5)
+
+
+
 
 </body>
 </html>
