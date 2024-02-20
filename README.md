@@ -23,5 +23,7 @@ Roderick and I have had a few good chats here and there and he has all good vibe
 Been a crazy up and down year and overall.
 Great Vibes all around! We have one more night here, 2 shows. Come hang out!</p>
 
+<img src="Rodrick.jpg" alt="Rodrick">
+
 </body>
 </html>
