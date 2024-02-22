@@ -11,7 +11,7 @@
 
 <h1 style="color:blue;"> Me and Rodrick vibing all good</h1>
 
-![image](https://github.com/avalde38/PROJECT_1_AlejandroValdez/assets/157165018/20498094-280b-4ecb-b477-164a467cb513) width="250" height="300">
+![image](https://github.com/avalde38/PROJECT_1_AlejandroValdez/assets/157165018/20498094-280b-4ecb-b477-164a467cb513) \
 
 <p>Rodrick is so babygirl.<br>                                                                                                                                              
 My biggest concern as a kid was wondering if i wanted to be Rodrick or be with him.<br>                                                                                                                                Fine, I'll do it myself.<br> 
@@ -26,7 +26,9 @@ Been a crazy up and down year and overall.<br>
 Great Vibes all around!
 </p>
 
-![image](https://github.com/avalde38/PROJECT_1_AlejandroValdez/assets/157165018/17f28712-1a8b-4b74-9844-960120adc000)
+<img src=![image](https://github.com/avalde38/PROJECT_1_AlejandroValdez/assets/157165018/17f28712-1a8b-4b74-9844-960120adc000)
+     width="400" 
+     height="500" />
 
 ![image](https://github.com/avalde38/PROJECT_1_AlejandroValdez/assets/157165018/7f8dccd1-6343-44b8-9f37-74bc75566054)
 
