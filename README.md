@@ -26,9 +26,7 @@ Been a crazy up and down year and overall.<br>
 Great Vibes all around!
 </p>
 
-<img src=![image](https://github.com/avalde38/PROJECT_1_AlejandroValdez/assets/157165018/17f28712-1a8b-4b74-9844-960120adc000)
-     width="400" 
-     height="500" />
+![image](https://github.com/avalde38/PROJECT_1_AlejandroValdez/assets/157165018/17f28712-1a8b-4b74-9844-960120adc000)
 
 ![image](https://github.com/avalde38/PROJECT_1_AlejandroValdez/assets/157165018/7f8dccd1-6343-44b8-9f37-74bc75566054)
 
