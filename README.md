@@ -7,10 +7,9 @@
 <html>
 
 
-<h1 style="color🟥;"> Me and Rodrick just vibing all good<h/1>
 
 
-<h1 style="color:blue;"> Me and Rodrick just vibing all good</h1>
+<h1 style="color:blue;"> Me and Rodrick vibing all good</h1>
 
 ![image](https://github.com/avalde38/PROJECT_1_AlejandroValdez/assets/157165018/20498094-280b-4ecb-b477-164a467cb513)
 
