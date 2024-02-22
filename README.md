@@ -11,7 +11,7 @@
 
 <h1 style="color:blue;"> Me and Rodrick vibing all good</h1>
 
-![image](https://github.com/avalde38/PROJECT_1_AlejandroValdez/assets/157165018/20498094-280b-4ecb-b477-164a467cb513)
+![image](https://github.com/avalde38/PROJECT_1_AlejandroValdez/assets/157165018/20498094-280b-4ecb-b477-164a467cb513) width="500" height="600">
 
 <p>Rodrick is so babygirl.<br>                                                                                                                                              
 My biggest concern as a kid was wondering if i wanted to be Rodrick or be with him.<br>                                                                                                                                Fine, I'll do it myself.<br> 
