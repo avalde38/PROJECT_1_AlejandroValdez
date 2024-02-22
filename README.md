@@ -1,5 +1,5 @@
 # PROJECT_1_AlejandroValdez
-GitHub Poetry Project
+
 <!DOCTYPE html>
 <html>
 <head>
