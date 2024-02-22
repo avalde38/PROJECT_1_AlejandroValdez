@@ -5,7 +5,6 @@ GitHub Poetry Project
 <head>
 <link rel="stylesheet" href="mystyle.css">
 <html>
-<body style="background-color:powderblue;">
 
 
 
