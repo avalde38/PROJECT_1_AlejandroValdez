@@ -8,6 +8,12 @@ h1 {
   color: navy;
   margin-left: 20px;
 }
+
+.download(1).jpg {
+  width: 300px;
+  height: 200px;
+  background-image: url(img/download(1).jpg);
+}
 </body>
 </html>
 
