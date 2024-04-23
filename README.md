@@ -23,7 +23,7 @@ For example, Rodrick definitely likes the starving artist look and the grungy fe
 and how it was so abrasive when it first came out.<br>
 Roderick and I have had a few good chats here and there and he has all good vibes to you all.<br>
 Been a crazy up and down year and overall.<br>
-Great Vibes all around!
+Great Vibes all !
 </p>
 
 
